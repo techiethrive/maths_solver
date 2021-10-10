@@ -1,4 +1,4 @@
-rint("Select The Type of Question You Want Solve:-")
+print("Select The Type of Question You Want Solve:-")
 
 a = print("1: 2D Figures")
 b = print("2: 3D Figures")
